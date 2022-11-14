@@ -1,6 +1,9 @@
 # reading-notes
 Reading journal for class 102
 
+![](IMG-1807.jpg)
+
+
 Hello my name is Rafael Aldana, I'm a U.S ARMY veteran I've served my country for about seven years now. Over the last two or three years I have been working as contractor for the U.S NAVY and also as a nationalguardsmen on the side as well. I am looking forward for this carreer a little extra because I have no background in Software or TECH, so by doing this I can prove myself that I can accomplish anything I set my mind to.
 
 Growth mindset to me means that you love a challenging life you not only survive but you thrive in life. This means that you do not see failures as set backs but instead as obstacles to overcome and come out a better person on the other end. I believe everyone has got potential we just have to believe in ourselves, the only limits we have in any aspect of life are the limits we put on ourselves.

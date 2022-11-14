@@ -16,4 +16,4 @@ Growth mindset to me means that you love a challenging life you not only survive
 
 - ***Have fun and enjoy learning***: I know at times I take life too serious and sometimes it makes everything stressful and I don't enjoy things as much when I see them as a chore.
 
-Follow the link for my github portfolio: (https://github.com/Rafael-Aldana) 
+Follow the link for my github portfolio: [link to my github](https://github.com/Rafael-Aldana) 

@@ -37,4 +37,4 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 12. [Class12](Class12notes.md)
 13. [Class13](Class13notes.md)
 14. [Class14](Class14notes.md)
-15, [Class15](Class15notes.md)
+15. [Class15](Class15notes.md)

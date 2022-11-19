@@ -8,10 +8,9 @@ Using the terminal: the terminal is like your files folder on your computer. The
 
 
 
+## Things I want to know more about:
 
-
-## Things I want to know more about
-i want to learn more terminal commands such as.
+I want to learn more terminal commands such as.
 cd 
 merge
-touch
+touch 

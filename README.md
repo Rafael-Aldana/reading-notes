@@ -1,5 +1,5 @@
 # reading-notes
-Reading journal for class 102
+Reading journal for class 102d45
 
 ![](IMG-1807.jpg)
 

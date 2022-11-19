@@ -1,33 +1,40 @@
 # reading-notes
+
 Reading journal for class 102d45
 
-![](IMG-1807.jpg)
-
+![Picofme](IMG-1807.jpg)
 
 Hello my name is **Rafael Aldana**, I'm a U.S ARMY veteran I've served my country for about seven years now. Over the last two or three years I have been working as contractor for the U.S NAVY and also as a nationalguardsmen on the side as well. I am looking forward for this career a little extra because I have no background in Software or TECH, so by doing this I can prove myself that I can accomplish anything I set my mind to.
 
-Growth mindset to me means that you love a challenging life you not only survive but you thrive in life. This means that you do not see failures as set backs but instead as obstacles to overcome and come out a better person on the other end. I believe everyone has got potential we just have to believe in ourselves, the only limits we have in any aspect of life are the limits we put on ourselves.
-
-### 3 reminders for myself to stay in a growth misdet are 
-
-- ***Don't dwell on the past***: I know myself pretty well and I know that when i make a mistake I beat myself up about it. I am expecting to mess up quite a bit during the duration of this course.
-
-- ***Don't be afraid to ask for help***: It's hard for me to ask for help from others because I don't want to be seen as burden or be an inconvenience. But in this journey I have to let go of my anxiety and let those around me help me.
-
-- ***Have fun and enjoy learning***: I know at times I take life too serious and sometimes it makes everything stressful and I don't enjoy things as much when I see them as a chore.
-
 Follow the link for my github portfolio: [link to my github](https://github.com/Rafael-Aldana) 
 
+## READING NOTES TABLE OF CONTENTS
 
+### CODE 102 READING-NOTES
 
-# READING NOTES TABLE OF CONTENTS:
+1. [Class1](Class1-Markdown-notes.md)
+2. [Class2](Class2-Coder'sComputer-notes.md)
+3. [Class3](Class3-RevisionsAndTheCloud-notes.md)
+4. [Class4](Class4-StructureWebPagesWithHTML-notes.md)
+5. [Clas5](Class5-DesignWebPagesWithCSS-notes.md)
+6. [Class6](Class6-DynamicWebPagesWithJavaScript-notes.md)
+7. [Class7](Class7-ProgrammingWithJavaScript-notes.md)
+8. [Class8](Class8-OperatorsAndLoops-notes.md)
 
+### CODE 201 READING-NOTES
 
-## CODE 102 READING-NOTES
-
-
-
-
-
-
-## CODE 201 READING-NOTES
+1. [Class1](Class1notes.md)
+2. [Class2](Class2notes.md)
+3. [Class3](Class3notes.md)
+4. [Class4](Class4notes.md)
+5. [Class5](Class5notes.md)
+6. [Class6](Class6notes.md)
+7. [Class7](Class7notes.md)
+8. [Class8](Class8notes.md)
+9. [Class9](Class9notes.md)
+10. [Class10](Class10notes.md)
+11. [Class11](Class11notes.md)
+12. [Class12](Class12notes.md)
+13. [Class13](Class13notes.md)
+14. [Class14](Class14notes.md)
+15, [Class15](Class15notes.md)

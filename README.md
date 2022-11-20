@@ -23,7 +23,7 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 # READING NOTES TABLE OF CONTENTS:
 
 
-##CODE 102 READING-NOTES
+## CODE 102 READING-NOTES
 
 
 

@@ -12,7 +12,7 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 
 ### CODE 102 READING-NOTES
 
-1. [Class1](Class1-Markdown-notes.md)
+1. [Class1](https://github.com/Rafael-Aldana/reading-notes/blob/main/102-Notes/Class1-Markdown-notes.md)
 2. [Class2](Class2-Coder'sComputer-notes.md)
 3. [Class3](Class3-RevisionsAndTheCloud-notes.md)
 4. [Class4](Class4-StructureWebPagesWithHTML-notes.md)

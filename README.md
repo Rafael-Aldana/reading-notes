@@ -12,14 +12,14 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 
 ### CODE 102 READING-NOTES
 
-1. [Class1](Class1-Markdown-notes.md)
-2. [Class2](Class2-/home/aldana362/projects/courses/code-102/reading-notes/102-Notes/Class2-Coder'sComputer-notes.md.md)
-3. [Class3](Class3-RevisionsAndTheCloud-notes.md)
-4. [Class4](Class4-StructureWebPagesWithHTML-notes.md)
-5. [Clas5](Class5-DesignWebPagesWithCSS-notes.md)
-6. [Class6](Class6-DynamicWebPagesWithJavaScript-notes.md)
-7. [Class7](Class7-ProgrammingWithJavaScript-notes.md)
-8. [Class8](Class8-OperatorsAndLoops-notes.md)
+1. [Class1](102-Notes/Class1-Markdown-notes.md)
+2. [Class2](102-Notes/Class2-Coder'sComputer-notes.md)
+3. [Class3](102-Notes/Class3-RevisionsAndTheCloud-notes.md)
+4. [Class4](102-Notes/Class4-StructureWebPagesWithHTML-notes.md)
+5. [Clas5](102-Notes/Class5-DesignWebPagesWithCSS-notes.md)
+6. [Class6](102-Notes/Class6-DynamicWebPagesWithJavaScript-notes.md)
+7. [Class7](102-Notes/Class7-ProgrammingWithJavaScript-notes.md)
+8. [Class8](102-Notes/Class8-OperatorsAndLoops-notes.md)
 
 ### CODE 201 READING-NOTES
 

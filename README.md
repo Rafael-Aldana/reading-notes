@@ -10,7 +10,7 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 
 ## READING NOTES TABLE OF CONTENTS
 
-### CODE 102 READING-NOTES
+### CODE 201 READING-NOTES
 
 1. [Class1](102-Notes/Class1-Markdown-notes.md)
 2. [Class2](102-Notes/Class2-Coder'sComputer-notes.md)

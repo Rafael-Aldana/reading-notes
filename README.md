@@ -23,7 +23,7 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 
 ### CODE 201 READING-NOTES
 
-1. [Class1](Class1notes.md)
+1. [Class1](201-Notes/Class1notes.md)
 2. [Class2](Class2notes.md)
 3. [Class3](Class3notes.md)
 4. [Class4](Class4notes.md)

@@ -1,6 +1,6 @@
 # reading-notes
 
-Reading journal for class 102d45
+Reading journal for class 201d93
 
 ![Picofme](IMG-1807.jpg)
 

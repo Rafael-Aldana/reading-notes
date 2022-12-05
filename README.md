@@ -23,14 +23,12 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 
 ### CODE 201 READING-NOTES
 
-1. [Class1](Class1notes.md)
-2. [Class2](201-Notes/Class2notes.md)
 1. [Class1](201-Notes/Class1notes.md)
-2. [Class2](Class2notes.md)
+2. [Class2](201-Notes/Class2notes.md)
 3. [Class3](201-Notes/Class3notes.md)
-4. [Class4](Class4notes.md)
-5. [Class5](Class5notes.md)
-6. [Class6](Class6notes.md)
+4. [Class4](201-Notes/Class4notes.md)
+5. [Class5](201-Notes/Class5notes.md)
+6. [Class6](201-Notes/Class6notes.md)
 7. [Class7](Class7notes.md)
 8. [Class8](Class8notes.md)
 9. [Class9](Class9notes.md)

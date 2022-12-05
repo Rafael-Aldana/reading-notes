@@ -1,4 +1,4 @@
-# Class 01 code-code201d93
+# Class 01 code-201d93
 
 The different topics that this class goes over is a summarized version of what we went over in code 102. All of the topics are important because we will only build from our aquired skills.
 

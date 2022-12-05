@@ -1,4 +1,4 @@
-# Class 03 code-code201d93
+# Class 03 code-201d93
 
 This three reading assaignments are especially important to us because it's what we will be going over in class today. And there will things from the reading that we'll have to apply the lab we are going to be doing.
 

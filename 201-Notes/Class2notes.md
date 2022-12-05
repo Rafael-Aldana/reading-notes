@@ -1,4 +1,4 @@
-# Class 02 code-code201d93
+# Class 02 code-201d93
 
 The importance of why we as software developers must use semantic elements in our HTML code is because it makes the code easier to read with our human eyes. It aslo makes it easier to catch errors in the code and if the code is shared other developers can read the code with ease.
 

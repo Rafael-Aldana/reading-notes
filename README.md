@@ -29,7 +29,7 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 4. [Class4](201-Notes/Class4notes.md)
 5. [Class5](201-Notes/Class5notes.md)
 6. [Class6](201-Notes/Class6notes.md)
-7. [Class7](Class7notes.md)
+7. [Class7](201-Notes/Class7notes.md)
 8. [Class8](Class8notes.md)
 9. [Class9](Class9notes.md)
 10. [Class10](Class10notes.md)

@@ -1,6 +1,6 @@
 # reading-notes
 
-Reading journal for class 201d93
+Reading journal for class 301d93
 
 ![Picofme](IMG-1807.jpg)
 
@@ -10,7 +10,7 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 
 ## READING NOTES TABLE OF CONTENTS
 
-### CODE 201 READING-NOTES
+### CODE 102 READING-NOTES (Intro to Software Development)
 
 1. [Class1](102-Notes/Class1-Markdown-notes.md)
 2. [Class2](102-Notes/Class2-Coder'sComputer-notes.md)
@@ -21,7 +21,7 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 7. [Class7](102-Notes/Class7-ProgrammingWithJavaScript-notes.md)
 8. [Class8](102-Notes/Class8-OperatorsAndLoops-notes.md)
 
-### CODE 201 READING-NOTES
+### CODE 201 READING-NOTES (Foundations of Software Development)
 
 1. [Class1](201-Notes/Class1notes.md)
 2. [Class2](201-Notes/Class2notes.md)
@@ -38,3 +38,8 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 13. [Class13](201-Notes/Class13notes.md)
 14. [Class14](201-Notes/Class14notes.md)
 15. [Class15](201-Notes/Class15notes.md)
+
+### CODE 301 READING-NOTES (Intermediate Software Development)
+
+
+### CODE 401 READING-NOTES (Advanced Software Development)

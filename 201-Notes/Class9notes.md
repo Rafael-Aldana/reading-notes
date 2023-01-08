@@ -1,7 +1,7 @@
 # Class 09 code-201d93
 
 Why are forms so important in web development?
-Forms are important for web development because it allows developers to collect data fromusers or they allow them to control a user interface.
+Forms are important for web development because it allows developers to collect data from users or they allow them to control a user interface.
 
 When designing a form, what are some key things to keep in mind when it comes to user experience?
 Before starting to code, it's always better to step back and take the time to think about your form. Designing a quick mockup will help you to define the right set of data you want to ask your user to enter. From a user experience (UX) point of view, it's important to remember that the bigger your form, the more you risk frustrating people and losing users. Keep it simple and stay focused: ask only for the data you absolutely need.

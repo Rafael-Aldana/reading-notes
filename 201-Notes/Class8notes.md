@@ -19,5 +19,5 @@ Making all the children of a container take up an equal amount of the available 
 Making all columns in a multiple-column layout adopt the same height even if they contain a different amount of content.
 
 How does this topic connect with your long term goals?
-
+This topic just shows the ever changing world of technology we are all heading into things are evolving and getting easier but more complex.
 [link-to-reading-notes](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox).

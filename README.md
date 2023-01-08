@@ -40,6 +40,8 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 15. [Class15](201-Notes/Class15notes.md)
 
 ### CODE 301 READING-NOTES (Intermediate Software Development)
-
+1. 
+2. 
+3. 
 
 ### CODE 401 READING-NOTES (Advanced Software Development)

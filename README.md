@@ -4,7 +4,7 @@ Reading journal for class 301d93
 
 ![Picofme](IMG-1807.jpg)
 
-Hello my name is **Rafael Aldana**, I'm a U.S ARMY veteran I've served my country for about seven years now. Over the last two or three years I have been working as contractor for the U.S NAVY and also as a nationalguardsmen on the side as well. I am looking forward for this career a little extra because I have no background in Software or TECH, so by doing this I can prove myself that I can accomplish anything I set my mind to.
+Hello my name is **Rafael Aldana**, I'm a U.S ARMY veteran I've served my country for about seven years now. Over the last two or three years I have been working as a contractor for the U.S NAVY and also as a nationalguardsmen on the side as well. I am looking forward for this career a little extra because I have no background in Software or TECH, so by doing this I can prove myself that I can accomplish anything I set my mind to.
 
 Follow the link for my github portfolio: [link to my github](https://github.com/Rafael-Aldana) 
 

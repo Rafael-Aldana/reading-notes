@@ -40,8 +40,16 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 15. [Class15](201-Notes/Class15notes.md)
 
 ### CODE 301 READING-NOTES (Intermediate Software Development)
-1. 
-2. 
-3. 
+
+1. [Class1](301-Notes/Class1-Intro-to-React-&-Components.md)
+2. [Class2](301-Notes/Class2-State-and-Props.md)
+3. [Class3]()
+4. [Class4]()
+5. [Class5]()
+6. [Class6]()
+7. [Class7]()
+8. [Class8]()
+9. [Class9]()
+10. [Class10]()
 
 ### CODE 401 READING-NOTES (Advanced Software Development)

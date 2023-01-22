@@ -56,4 +56,3 @@ The flow of props is uni-directional. One way from parent to child, the data is 
 ### Things I want to know more about: 
 
 I want to know more about React and how often or how many companies use is out in the industry.
-

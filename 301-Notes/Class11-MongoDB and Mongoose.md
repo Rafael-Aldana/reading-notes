@@ -17,17 +17,41 @@ Videos
 
 ## sql vs nosql video
 
-What does SQL stand for?
+What does SQL stand for? 
+Structured query language
+
 What is a relational database?
+ Works with certain assumptions and it supports the sql that works with data tables.
+
 What type of structure does a relational database work with?
+It works with table structure.
+One-to-one structure
+One-to-many structure
+Many-to-many structure
+
+
 What is a ‘schema’?
+All recorsds need to adhere to the schema 
+
 What is a NoSQL database?
+It is a data base that uses collections instead of tables.
+Uses documents instead of rows and there is no schema.
+There is no relations as well.
+
 How does it work?
+It is more flexible than using sql because it is easier to use.
+
 What is inside of a MongoDB database?
+Nosql database.
+
 Which is more flexible - SQL or MongoDB? and why.
 What is the disadvantage of a NoSQL database?
+MongoDB is more flexible than sql because it is easier to use and uses no schema, no relations.
 
-[link-to-reding-notes]().
+Scaling can become very hard as opposed to horizontal.
+
+
+[link-to-reding-notes](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y).
 
 ### Things I want to know more about: 
 

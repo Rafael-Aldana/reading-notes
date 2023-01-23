@@ -43,8 +43,8 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 
 1. [Class1](301-Notes/Class1-Intro-to-React-&-Components.md)
 2. [Class2](301-Notes/Class2-State-and-Props.md)
-3. [Class3]()
-4. [Class4]()
+3. [Class3](301-Notes/Class3-Passing-Functions-as-Props.md)
+4. [Class4](301-Notes/Class4-React&Forms.md)
 5. [Class5]()
 6. [Class6]()
 7. [Class7]()

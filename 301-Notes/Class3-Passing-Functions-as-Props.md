@@ -1,6 +1,6 @@
 # Intro to React and Components
 
-This reading topic is important because
+This reading topic is important because we will be exploring different types of operators and method types in 301.
 
 ## React Docs- lists and keys
 

@@ -45,7 +45,7 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 2. [Class2](301-Notes/Class2-State-and-Props.md)
 3. [Class3](301-Notes/Class3-Passing-Functions-as-Props.md)
 4. [Class4](301-Notes/Class4-React&Forms.md)
-5. [Class5]()
+5. [Class5](301-Notes/Class5-Putting-it-all-together.md)
 6. [Class6]()
 7. [Class7]()
 8. [Class8]()
@@ -54,7 +54,7 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 11. [Class11](301-Notes/Class11-MongoDB and Mongoose.md)
 12. [Class12]()
 13. [Class13](301-Notes/Class13-More CRUD.md)
-14. [Class14]()
-15. [Class15]()
+14. [Class14](301-Notes/Class14-Diversity & Inclusion in the Tech Industry.md)
+15. [Class15](301-Notes/Class15-Authentication.md)
 
 ### CODE 401 READING-NOTES (Advanced Software Development)

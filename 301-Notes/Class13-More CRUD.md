@@ -31,4 +31,4 @@ If you had to describe the process of creating a RESTful API in 5 steps, what wo
 
 ### Things I want to know more about: 
 
-I want to know more about React and how often or how many companies use is out in the industry.
+I want to know more about the API's used ouot there in the industry.

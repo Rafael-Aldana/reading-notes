@@ -69,4 +69,4 @@ Scaling can become very hard as opposed to horizontal.
 
 ### Things I want to know more about: 
 
-I want to know more about React and how often or how many companies use is out in the industry.
+I want to know more about what other databases the industry uses and how they work.

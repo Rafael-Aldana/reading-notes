@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-This reading topic is important because
+This reading topic is important because without the ability to solve data structures or algorithms you can't pass an interview.
 
 ## Discussion Questions
 

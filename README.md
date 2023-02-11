@@ -6,7 +6,7 @@ Reading journal for class 401d51
 
 Hello my name is **Rafael Aldana**, I'm a U.S ARMY veteran I've served my country for about seven years now. Over the last two or three years I have been working as a contractor for the U.S NAVY and also as a nationalguardsmen on the side as well. I am looking forward for this career a little extra because I have no background in Software or TECH, so by doing this I can prove myself that I can accomplish anything I set my mind to.
 
-Follow the link for my github portfolio: [link to my github](https://github.com/Rafael-Aldana) 
+Follow the link for my github portfolio: [link to my github](https://github.com/Rafael-Aldana)
 
 ## READING NOTES TABLE OF CONTENTS
 
@@ -61,3 +61,4 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 
 0. [PrepWork](401-Notes/Prework.md)
 1. [PrepWork](401-Notes/Prework2.md)
+2. [PrepWork](401-Notes/Prework3.md)

@@ -62,3 +62,4 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 0. [PrepWork](401-Notes/Prework.md)
 1. [PrepWork](401-Notes/Prework2.md)
 2. [PrepWork](401-Notes/Prework3.md)
+3. [Class1](401-Notes/Class1-NodeEcosystem.md)

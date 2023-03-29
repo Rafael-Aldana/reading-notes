@@ -63,3 +63,6 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 1. [PrepWork](401-Notes/Prework2.md)
 2. [PrepWork](401-Notes/Prework3.md)
 3. [Class1](401-Notes/Class1-NodeEcosystem.md)
+31. [Class31](401-Notes/Class31-Context-API.md)
+32. [Class32](401-Notes/Class32-Context API - Behaviors.md)
+33. [Class33](401-Notes/Class33-Login-and-Auth.md)

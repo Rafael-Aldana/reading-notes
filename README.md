@@ -66,3 +66,5 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 31. [Class31](401-Notes/Class31-Context-API.md)
 32. [Class32](401-Notes/Class32-Context API - Behaviors.md)
 33. [Class33](401-Notes/Class33-Login-and-Auth.md)
+34. [Class34](401-Notes/Class-34-API-Integration.md)
+35. [Class35](401-Notes/Class35-Graphs.md)

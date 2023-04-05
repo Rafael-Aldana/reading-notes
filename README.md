@@ -68,5 +68,6 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 33. [Class33](401-Notes/Class33-Login-and-Auth.md)
 34. [Class34](401-Notes/Class-34-API-Integration.md)
 35. [Class35](401-Notes/Class35-Graphs.md)
-36. [Class36]()
+36. [Class36](401-Notes/Class-36-Application-State-with-Redux.md)
 37. [Class37](401-Notes/Class-37-Redux-Combined-Reducers.md)
+38. [Class38](401-Notes/Class38-Redux-Async-Actions.md)

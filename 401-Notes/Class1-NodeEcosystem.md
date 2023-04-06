@@ -13,7 +13,7 @@ Node is used to install dependencies and packages that can be used in your appli
 What is Node used for?
 Node is used for almost everything it can be used in the backend and frontend. 
 
-[link-to-reding-notes](https://www.sitepoint.com/an-introduction-to-node-js).
+[link-to-reading-notes](https://www.sitepoint.com/an-introduction-to-node-js).
 
 *****************************************************************************
 

@@ -36,7 +36,7 @@ System maintenance and evolution − Easy to change and update the implementatio
 
 Independent − Independency and flexible connectivity of components. Independent development of components by different group in parallel. Productivity for the software development and future software development.
 
-[link-to-reding-notes](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm).
+[link-to-reading-notes](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm).
 
 ********************************************************************************************************************
 
@@ -51,7 +51,7 @@ In React props are used for passing data between one component to another.
 What is the flow of props?
 The flow of props is uni-directional. One way from parent to child, the data is read only which mean that the data coming from the parent should not be changed by they child.
 
-[link-to-reding-notes](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0).
+[link-to-reading-notes](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0).
 
 ### Things I want to know more about: 
 

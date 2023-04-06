@@ -20,7 +20,7 @@ setState() can be called here, but it should be used sparingly, because it will 
 
 Here we use componentDidMount() to connect to the YouTube API and get videos when the components is rendered.
 
-[link-to-reding-notes](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093).
+[link-to-reading-notes](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093).
 
 ********************************************************************************************************************
 
@@ -38,7 +38,7 @@ The appication is re-rendered when state is updated based on something that the 
 What are some examples of things that we could store in state?
 Things that can be stored in state should be things like a counter or things that are going to re-render or update the application based on something that the user has done.
 
-[link-to-reding-notes](https://www.youtube.com/watch?v=IYvD9oBCuJI).
+[link-to-reading-notes](https://www.youtube.com/watch?v=IYvD9oBCuJI).
 
 ### Things I want to know more about: 
 

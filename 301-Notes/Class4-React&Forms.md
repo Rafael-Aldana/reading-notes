@@ -15,7 +15,7 @@ It can sometimes be tedious to use controlled components, because you need to wr
 How do we target what the user is entering if we have an event handler on an input field?
 You use the tartget .value property of the event which is passed by the onchange handler whenever the user types on the input tag.
 
-[link-to-reding-notes](https://reactjs.org/docs/forms.html).
+[link-to-reading-notes](https://reactjs.org/docs/forms.html).
 
 ********************************************************************************************************************
 
@@ -33,7 +33,7 @@ if(x===y){
 }
 result = x === y ? console.log(true) : console.log(false);
 
-[link-to-reding-notes](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff).
+[link-to-reading-notes](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff).
 
 ### Things I want to know more about: 
 W?TF

@@ -164,9 +164,9 @@ Which library would you prefer would you prefer? Why?
 
 As a beginner level web developer I'm more familiar with seeing the react hooks syntax. For that reason I would use the first cookie library, however it looks like the second library is more decentrilized so as I gain experience I'd switch over to the second one.
 
-[link-to-reding-notes](https://digitalguardian.com/blog/what-role-based-access-control-rbac-examples-benefits-and-more).
-[link-to-reding-notes](https://www.npmjs.com/package/react-cookie).
-[link-to-reding-notes](https://www.npmjs.com/package/react-cookies).
+[link-to-reading-notes](https://digitalguardian.com/blog/what-role-based-access-control-rbac-examples-benefits-and-more).
+[link-to-reading-notes](https://www.npmjs.com/package/react-cookie).
+[link-to-reading-notes](https://www.npmjs.com/package/react-cookies).
 
 *************************************************************************************************************
 

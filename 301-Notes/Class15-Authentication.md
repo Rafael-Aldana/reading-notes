@@ -28,7 +28,7 @@ OAuth is not the first authentication/authorization system to work this way on b
 What is OpenID?
 OpenID is an authentication for humans to sign in and use machines. OpenID was supposed to be a single sign in process for users instead of having multiple logins for different websites.
 
-[link-to-reding-notes](https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html).
+[link-to-reading-notes](https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html).
 
 ********************************************************************************************************************
 
@@ -169,7 +169,7 @@ endpoint).
 
 6. The API responds with requested data.
 
-[link-to-reding-notes](https://auth0.com/docs/flows).
+[link-to-reading-notes](https://auth0.com/docs/flows).
 
 ### Things I want to know more about
 

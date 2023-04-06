@@ -7,7 +7,7 @@ The reason why a canvas element need a closing tag is because, any content betwe
 Explain what the getContext() method does.
 The getContext() method returns a render context object. It takes one argument which is the type of context. For example, you use the "2d" to get a 2D rendering context object, which is an instance of the CanvasRenderingContext2D interface.
 
-[link-to-reding-notes](https://www.javascripttutorial.net/web-apis/javascript-canvas/).
+[link-to-reading-notes](https://www.javascripttutorial.net/web-apis/javascript-canvas/).
 ********************************************************************************************************************
 What is Chart.js and how it can be brought into your project?
 The chart.js is a charting library that can be brought onto our projects simply by copying the code directly or leverage well-maintained wrapper packages that allow for a more native integration with your frameworks of choice.
@@ -23,4 +23,4 @@ Charts are better for displaying data visually, they are easier to look at and c
 How could Chart.js aid your previously created applications visually?
 Chart.js can provide a chart for the number of times an image is seen, how many votes an image gets, and it could provide a real time view of the results of the products.
 
-[link-to-reding-notes](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/).
+[link-to-reading-notes](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/).

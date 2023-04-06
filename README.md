@@ -71,3 +71,4 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 36. [Class36](401-Notes/Class-36-Application-State-with-Redux.md)
 37. [Class37](401-Notes/Class-37-Redux-Combined-Reducers.md)
 38. [Class38](401-Notes/Class38-Redux-Async-Actions.md)
+39. [Class39](401-Notes/Class39-Redux-Additional-topics.md)

@@ -10,7 +10,7 @@ The appropriate HTTP method is PUT for updating.
 Which REST methods require an ID parameter?
 The REST method that requires an ID parameter are PUT AND DELETE.
 
-[link-to-reding-notes]()https://medium.com/geekculture/crud-operations-explained-2a44096e9c88.
+[link-to-reading-notes](https://medium.com/geekculture/crud-operations-explained-2a44096e9c88).
 
 ********************************************************************************************************************
 
@@ -27,7 +27,7 @@ If you had to describe the process of creating a RESTful API in 5 steps, what wo
 4. Create your application 
 5. send your request to the API database
 
-[link-to-reding-notes](https://www.youtube.com/watch?v=EzNcBhSv1Wo).
+[link-to-reading-notes](https://www.youtube.com/watch?v=EzNcBhSv1Wo).
 
 ### Things I want to know more about: 
 

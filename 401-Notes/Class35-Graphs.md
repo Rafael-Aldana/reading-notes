@@ -86,7 +86,7 @@ When representing a weighted graph in a matrix, you set the element in the 2D ar
   - If a neighbor hasn’t been visited, push it onto the stack and mark as visited
   - Repeat until the stack is empty.
 
-[link-to-reding-notes](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/graphs.html).
+[link-to-reading-notes](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/graphs.html).
 
 
 ************************************************************************************ 

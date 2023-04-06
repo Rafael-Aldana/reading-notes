@@ -28,8 +28,8 @@ What hook complements useContext for complex applications?
 
 Managing state: As your app grows, you might end up with a lot of state closer to the top of your app. Many distant components below may want to change it. It is common to use a reducer together with context to manage complex state and pass it down to distant components without too much hassle.
   
-[link-to-reding-notes](https://react.dev/learn/choosing-the-state-structure).
-[link-to-reding-notes](https://react.dev/learn/passing-data-deeply-with-context).
+[link-to-reading-notes](https://react.dev/learn/choosing-the-state-structure).
+[link-to-reading-notes](https://react.dev/learn/passing-data-deeply-with-context).
 
 *************************************************************************************************************
 

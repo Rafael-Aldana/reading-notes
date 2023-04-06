@@ -26,7 +26,7 @@ Find a common owner component (a single component above all the components that 
 Either the common owner or another component higher up in the hierarchy should own the state.
 If you can’t find a component where it makes sense to own the state, create a new component solely for holding the state and add it somewhere in the hierarchy above the common owner component.
 
-[link-to-reding-notes](https://reactjs.org/docs/thinking-in-react.html).
+[link-to-reading-notes](https://reactjs.org/docs/thinking-in-react.html).
 
 ********************************************************************************************************************
 
@@ -41,7 +41,7 @@ Line two is returning an arrow function that returns m greater than n.
 Explain how either map or reduce operates, with regards to higher-order functions.
 map takes in an array and a set of arguments and returns a new array with those new arguments.
 
-[link-to-reding-notes](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK).
+[link-to-reading-notes](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK).
 
 ### Things I want to know more about: 
 

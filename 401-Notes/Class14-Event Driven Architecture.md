@@ -11,8 +11,8 @@
   What are your learning goals after reading and reviewing the class README?
 Have the base knowledge of using socket.io and using namespaces and joining rooms. I at least want to be able to recognize what that looks like in code.
 
-[link-to-reding-notes](https://canvas.instructure.com/courses/6088303/discussion_topics/17042641).
-[link-to-reding-notes](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-14/).
+[link-to-reading-notes](https://canvas.instructure.com/courses/6088303/discussion_topics/17042641).
+[link-to-reading-notes](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-14/).
 
 *************************************************************************************************************
 

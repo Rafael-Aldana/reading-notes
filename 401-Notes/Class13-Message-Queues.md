@@ -25,9 +25,9 @@
 
 3. Discuss a possible use case for separate namespaces
 
-[link-to-reding-notes](https://socket.io/get-started/chat/).
-[link-to-reding-notes](https://socket.io/docs/v4/rooms).
-[link-to-reding-notes](https://socket.io/docs/v4/namespaces/).
+[link-to-reading-notes](https://socket.io/get-started/chat/).
+[link-to-reading-notes](https://socket.io/docs/v4/rooms).
+[link-to-reading-notes](https://socket.io/docs/v4/namespaces/).
 *************************************************************************************************************
 
 ### Things I want to know more about:

@@ -9,4 +9,4 @@ Personal information and sensitive information should not be stored in local sto
 Local storage can store what type of data? How would you convert it to that type before storing?
 Local storages can only store data strings. You can convert different types of data into strings by using the JSON.stringify() key.
 
-[link-to-reding-notes](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/).
+[link-to-reading-notes](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/).

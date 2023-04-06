@@ -24,9 +24,9 @@ The object contains key/value pairs where the key is the name of the reducer and
 
 ### Bookmark and Review
 
-[link-to-reding-notes](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6)
-[link-to-reding-notes](https://medium.com/@netxm/testing-redux-reducers-with-jest-6653abbfe3e1)
-[link-to-reding-notes](https://redux.js.org/)
+[link-to-reading-notes](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6)
+[link-to-reading-notes](https://medium.com/@netxm/testing-redux-reducers-with-jest-6653abbfe3e1)
+[link-to-reading-notes](https://redux.js.org/)
 *************************************************************************************************************
 
 ### Things I want to know more about:

@@ -16,7 +16,7 @@ Each item needs a unique key special string attribute.
 What is the purpose of a key?
 Keys help React identify which items have changed, are added, or are removed. Keys should be given to the elements inside the array to give the elements a stable identity.
 
-[link-to-reding-notes](https://reactjs.org/docs/lists-and-keys.html).
+[link-to-reading-notes](https://reactjs.org/docs/lists-and-keys.html).
 
 ********************************************************************************************************************
 
@@ -64,7 +64,7 @@ console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂"
 const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}
 objectFour.laugh() // 😂😂😂😂😂
 
-[link-to-reding-notes](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab).
+[link-to-reading-notes](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab).
 
 ********************************************************************************************************************
 ## How to pass Functions between Components
@@ -81,7 +81,7 @@ You use the props.
 How does the child component invoke a method that was passed to it from a parent component?
 The child element uses this.props to invoke the method.
 
-[link-to-reding-notes](https://www.youtube.com/watch?v=c05OL7XbwXU)
+[link-to-reading-notes](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
 ### Things I want to know more about: 
 

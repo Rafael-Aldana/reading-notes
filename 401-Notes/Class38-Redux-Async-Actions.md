@@ -29,8 +29,8 @@ Redux Thunk middleware allows you to write action creators that return a functio
 
 Any return value from the inner function will be available as the return value of dispatch itself.
 
-[link-to-reding-notes](https://redux.js.org/advanced/asyncactions).
-[link-to-reding-notes](https://github.com/reduxjs/redux-thunk).
+[link-to-reading-notes](https://redux.js.org/advanced/asyncactions).
+[link-to-reading-notes](https://github.com/reduxjs/redux-thunk).
 
 *************************************************************************************************************
 

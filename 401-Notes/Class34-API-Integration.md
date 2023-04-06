@@ -32,9 +32,9 @@ id: things
 
 
 
-[link-to-reding-notes](https://codefellows.github.io/code-401-javascript-guide/curriculum/apps-and-libraries/api-server/).
-[link-to-reding-notes](https://codefellows.github.io/code-401-javascript-guide/curriculum/apps-and-libraries/auth-server/).
-[link-to-reding-notes]().
+[link-to-reading-notes](https://codefellows.github.io/code-401-javascript-guide/curriculum/apps-and-libraries/api-server/).
+[link-to-reading-notes](https://codefellows.github.io/code-401-javascript-guide/curriculum/apps-and-libraries/auth-server/).
+[link-to-reading-notes]().
 
 *************************************************************************************************************
 

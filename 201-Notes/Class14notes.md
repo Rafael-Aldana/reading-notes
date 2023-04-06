@@ -29,10 +29,10 @@ CSS
   transform: scale(.75) translate(-10px, -10px);
   transform-origin: 20px 50px;
 }
-[link-to-reding-notes](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
+[link-to-reading-notes](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
 ***************************************************************************************************************************************************
 What does a CSS transition allow the developer to do to an element? Transitions provide a change from one state to another.
-[link-to-reding-notes](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+[link-to-reading-notes](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
 
 How does a CSS animation differ from a CSS transition? Animations can set multiple points of transition upon different keyframes, as opposed to transitions they change one state to another.
 

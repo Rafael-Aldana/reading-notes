@@ -25,7 +25,7 @@ Which type of database is best for hierarchical data storage?
 Which type of database is best for scalability?
 SQL
 
-[link-to-reding-notes](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool).
+[link-to-reading-notes](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool).
 
 ********************************************************************************************************************
 
@@ -65,7 +65,7 @@ MongoDB is more flexible than sql because it is easier to use and uses no schema
 Scaling can become very hard as opposed to horizontal.
 
 
-[link-to-reding-notes](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y).
+[link-to-reading-notes](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y).
 
 ### Things I want to know more about: 
 

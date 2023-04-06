@@ -10,7 +10,7 @@ Personal computers sucha as vidoe games and other simple computers started comin
 Why does it matter that males had been playing on computers growing up?
 This made a significant difference because males were more exposed to that technology growing up and gave them a greater advantage when working with computer science. Things were more familiar to them and a sense it was almost second nature.
 
-[link-to-reding-notes](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding).
+[link-to-reading-notes](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding).
 
 ********************************************************************************************************************
 
@@ -25,8 +25,8 @@ According to Scott E. Page, professor of complex systems, political science and 
 Give an example of how a diverse company can serve a diverse user base or vise-versa.
 When a company is diverse they can target not only the major population for sale but as well as those smaller communities that aren't as represented in society. Those companies have a bigger pool of customers than those that that aren't inclusive.
 
-[link-to-reding-notes](https://informationisbeautiful.net/visualizations/diversity-in-tech/).
-[link-to-reding-notes](https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/).
+[link-to-reading-notes](https://informationisbeautiful.net/visualizations/diversity-in-tech/).
+[link-to-reading-notes](https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/).
 
 ### Things I want to know more about: 
 

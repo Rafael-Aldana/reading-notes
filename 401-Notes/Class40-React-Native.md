@@ -26,7 +26,7 @@ Text and TextInput View
 
 What solution does expo provide?
 
-
+Expo aims to provide a place where developers can create react native apps for mobile devices. Using expo you can develop, deploy, and debug.
 
 Expo tries to manage as much of the complexity of building apps as possible, which is why we call it the ____ workflow.
 

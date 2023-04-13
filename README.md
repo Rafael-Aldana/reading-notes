@@ -103,4 +103,4 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 39. [Class39](401-Notes/Class39-Redux-Additional-topics.md)
 40. [Class40](401-Notes/Class40-React-Native.md)
 42. [Class42](401-Notes/Class42-Ethics.md)
-43. [Class43]()
+43. [Class43](401-Notes/Class43-OSS-Contributions.md)

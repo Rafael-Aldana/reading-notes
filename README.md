@@ -98,7 +98,7 @@ Follow the link for my github portfolio: [link to my github](https://github.com/
 34. [Class34](401-Notes/Class34-API-Integration.md)
 35. [Class35](401-Notes/Class35-Graphs.md)
 36. [Class36](401-Notes/Class36-Application-State-with-Redux.md)
-37. [Class37](4401-Notes/Class37-Redux-Combined-Reducers.md)
+37. [Class37](401-Notes/Class37-Redux-Combined-Reducers.md)
 38. [Class38](401-Notes/Class38-Redux-Async-Actions.md)
 39. [Class39](401-Notes/Class39-Redux-Additional-topics.md)
 40. [Class40](401-Notes/Class40-React-Native.md)

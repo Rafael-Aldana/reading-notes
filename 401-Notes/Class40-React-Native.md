@@ -34,26 +34,38 @@ Expo tries to manage as much of the complexity of building apps as possible, whi
 
 What is the difference between React Native and Expo?
 
-
+Expo flipped React Native development on its head by replacing how compilation, deployment, and testing worked. In particular, Expo features four major components: Expo—an open-source framework for building React Native apps with consolidated logic for both iOS and Android.
 
 ## expo snack
 
 Checkout this tool. What does snack allow you to do?
 
-
+Expo tries to manage as much of the complexity of building apps for you as we can, which is why we call it the managed workflow.
 
 ## ejecting
 
 What does “eject” mean within the context of Expo?
 
+The term "eject" was popularized by create-react-app, and it is used in Expo to describe leaving the cozy comfort of the standard Expo development environment, where you do not have to deal with build configuration or native code. When you "eject" from Expo, you have two choices:
 
+Eject to bare workflow, where you jump between workflows and move into the bare workflow, where you can continue to use Expo APIs but have access and full control over your native Android and iOS projects.
+Eject to ExpoKit, where you get the native projects along with ExpoKit. This option is deprecated and support for ExpoKit was removed after SDK 38.
 
 When should you not eject?
 
+Here are some situations where you may want to avoid ejecting from Expo:
 
+If you are just starting out with mobile app development and are not yet comfortable with React Native or native development tools.
+
+If you are working on a small or simple app that does not require advanced functionality or custom native modules.
+
+If you are working with a tight deadline or limited resources, and need to get your app to market quickly without spending time on custom development.
+
+If you want to take advantage of Expo's built-in features such as push notifications, analytics, and OTA updates, without having to set them up yourself.
 
 Why might you choose to eject?
 
+The Expo Eject Step is necessary to eject your app to install any missing native dependencies.
 
 
 [link-to-reading-notes](https://facebook.github.io/react-native/docs/getting-started).
